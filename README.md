@@ -2,7 +2,7 @@
 
 
 **CryingPerson/CryingPerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CryingPerson)](https://github.com/CryingPerson/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CryingPerson)](https://github.com/CryingPerson/github-readme-stats)<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=opnice12)](https://solved.ac/opnice12)
 Here are some ideas to get you started:
