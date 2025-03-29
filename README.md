@@ -1,8 +1,4 @@
-## 👋 Hi, I'm Lee SiHyeon!
-
-백엔드 개발자 이시현입니다.
-도전과 성장을 즐기며, 다양한 프로젝트 경험이 있습니다.
-ex)발주 관리시스템, 코틀린 마이그레이션, 스터디룸 예약시스템, 실시간 환율정보 시스템
+![헤더](https://capsule-render.vercel.app/api?type=waving&height=270&color=auto&text=Hi,%20I'm%20Lee%20SiHyeon👋%20Back-end%20Developer&fontAlign=40&fontSize=30)
 ---
 
 ### 📝 About Me
